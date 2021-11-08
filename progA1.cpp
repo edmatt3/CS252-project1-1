@@ -5,5 +5,5 @@ using namespace std;
 
 void proclaim (const string& st)
 {
-  announce (st + "!");
+  announce (st + "?");
 }
